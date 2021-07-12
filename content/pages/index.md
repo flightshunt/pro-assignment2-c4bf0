@@ -79,7 +79,9 @@ sections:
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
-        content: I can't thank you guys enough for helping me with my assignment
+        content: >-
+          I can't thank you enough for helping me meet the submission deadline
+          for my assignment, I got an A!
     subtitle: Don't take our word for it
   - section_id: call-to-action
     type: section_cta
