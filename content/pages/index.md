@@ -43,7 +43,7 @@ sections:
           writing service is designed to help you meet your submission
           deadlines.
         actions:
-          - label: Learn More
+          - label: Get Started
             url: /features
             style: secondary
             has_icon: true
