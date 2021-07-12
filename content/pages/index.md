@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/AdobeStock_368473967.jpeg
+    image: /images/enthusiastic-chili.jpeg
     image_alt: App preview
     title: Assignment help from Pros
     content: >+
