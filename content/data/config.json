@@ -33,11 +33,6 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "How It Works",
-                        "url": "/about",
-                        "style": "link"
-                    },
-                    {
                         "label": "Get Started",
                         "url": "/contact",
                         "style": "link"
