@@ -85,7 +85,7 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-    subtitle: 'Don''t '
+    subtitle: Don't take our word for it
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
