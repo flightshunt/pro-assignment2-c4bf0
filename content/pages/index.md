@@ -88,7 +88,7 @@ sections:
     title: Your classmates are taking online homework help are you ?
     actions:
       - label: Get Started
-        url: /signup
+        url: /contact
         style: primary
 seo:
   title: Stackbit Azimuth Theme
