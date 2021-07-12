@@ -66,7 +66,7 @@ sections:
     background: white
     title: Testimonials
     reviews:
-      - author: Eric Widget
+      - author: Eric James
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
