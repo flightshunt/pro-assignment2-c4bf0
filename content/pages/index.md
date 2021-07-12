@@ -52,8 +52,10 @@ sections:
         image: /images/AdobeStock_15507297.jpeg
         image_alt: App user profile preview
         content: >
-          Get the grades you need with our report writing service. Our talented
-          writers can help you with your next academic report. 
+          Get the grades you need with our report writing service. Whether you
+          are looking for a technical report, business report, or analytical
+          report, our experts can help you write a report that guarantees good
+          grades.
         actions:
           - label: Get Started
             url: /contact
