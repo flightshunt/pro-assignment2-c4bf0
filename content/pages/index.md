@@ -55,7 +55,7 @@ sections:
           Get the grades you need with our report writing service. Our talented
           writers can help you with your next academic report. 
         actions:
-          - label: Learn More
+          - label: Get Started
             url: /features
             style: secondary
             has_icon: true
