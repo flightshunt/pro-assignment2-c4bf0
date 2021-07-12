@@ -24,7 +24,7 @@ sections:
         options:
           - Homework Help
           - Report Writing
-          - Other
+          - Essay Writing
       - input_type: textarea
         name: message
         label: Message
