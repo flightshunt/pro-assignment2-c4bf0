@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Assignment help from Phds
+    title: Assignment help from Pro
     content: >
       Don't battle your college assignments alone, let our professional writers
       help you with your assignments.
