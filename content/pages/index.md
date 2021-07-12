@@ -18,7 +18,7 @@ sections:
     background: gray
     title: Services
     features:
-      - title: The Best Feature of Your Services
+      - title: School Homework
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
