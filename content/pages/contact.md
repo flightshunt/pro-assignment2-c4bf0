@@ -23,7 +23,7 @@ sections:
         default_value: Please select
         options:
           - Homework Help
-          - Sponsorship
+          - Report Writing
           - Other
       - input_type: textarea
         name: message
