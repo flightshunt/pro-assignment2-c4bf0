@@ -22,7 +22,7 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
-          - label: Learn More
+          - label: Get Started
             url: /features
             style: secondary
             has_icon: true
