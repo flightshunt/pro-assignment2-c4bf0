@@ -12,7 +12,7 @@ sections:
 
     actions:
       - label: Get Started
-        url: /features
+        url: /contact
         style: primary
   - section_id: features
     type: section_features
