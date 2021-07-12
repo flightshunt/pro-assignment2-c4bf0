@@ -56,7 +56,7 @@ sections:
           writers can help you with your next academic report. 
         actions:
           - label: Get Started
-            url: /features
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
