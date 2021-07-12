@@ -20,7 +20,7 @@
             },
             {
                 "label": "Get Started",
-                "url": "/signup",
+                "url": "/",
                 "style": "primary"
             }
         ]
