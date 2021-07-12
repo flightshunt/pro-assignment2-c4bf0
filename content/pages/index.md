@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Assignment help from Pros
     content: >
-      Don't battle your college assignments alone, let our professional writers
+      Don't battle your college assignments alone; let our professional writers
       help you with your assignments.
     actions:
       - label: Get Started
