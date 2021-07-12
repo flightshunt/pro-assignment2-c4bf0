@@ -20,7 +20,7 @@ sections:
     title: Services
     features:
       - title: Homework Help
-        image: /images/AdobeStock_140422905_Preview.jpeg
+        image: /images/AdobeStock_140422905.jpeg
         image_alt: App preview on a phone and tablet
         actions:
           - label: Get Started
