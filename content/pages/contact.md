@@ -5,10 +5,8 @@ sections:
     type: section_contact
     background: gray
     title: Get Started
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: |
+      Tell us your requirement and we will reach out to you shortly.
     form_id: contactForm
     form_fields:
       - input_type: text
