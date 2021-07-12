@@ -1,5 +1,5 @@
 ---
-title: Get
+title: Get Started
 sections:
   - section_id: contact
     type: section_contact
