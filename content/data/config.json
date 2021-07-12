@@ -14,11 +14,6 @@
                 "style": "link"
             },
             {
-                "label": "Services",
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "How it Works",
                 "url": "/pricing",
                 "style": "link"
