@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Assignment help from Phds
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Don't battle your college assignments alone, let our professional writers
+      help you with your assignments.
     actions:
       - label: Learn More
         url: /features
