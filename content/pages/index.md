@@ -49,7 +49,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Report Writing
-        image: images/feature3.png
+        image: /images/AdobeStock_15507297_Preview.jpeg
         image_alt: App user profile preview
         content: >
           Get the grades you need with our report writing service. Our talented
