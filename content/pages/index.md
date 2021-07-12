@@ -38,9 +38,9 @@ sections:
         image: /images/AdobeStock_282687822.jpeg
         image_alt: App users welcoming a new member
         content: >
-          Get professionally written essays for all academic levels. Our essay
-          writing service is designed to help you meet your submission
-          deadlines.
+          Get professionally written essays for all academic levels, no matter
+          the topic or complexity. Our essay writing service is designed to help
+          you meet your submission deadlines while ensuring top grades.
         actions:
           - label: Get Started
             url: /contact
