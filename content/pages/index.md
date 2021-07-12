@@ -24,7 +24,7 @@ sections:
         image_alt: App preview on a phone and tablet
         actions:
           - label: Get Started
-            url: /features
+            url: /contact
             style: secondary
             has_icon: true
             icon: arrow-right
