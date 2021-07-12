@@ -10,7 +10,7 @@ sections:
       Don't battle your college assignments alone, let our professional writers
       help you with your assignments.
     actions:
-      - label: Learn More
+      - label: Get Started
         url: /features
         style: primary
   - section_id: features
