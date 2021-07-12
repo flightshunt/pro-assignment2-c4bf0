@@ -2,7 +2,7 @@
     "title": "Pro-assignment",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "orange",
     "header": {
         "logo_img": "/images/Pro-assignment web logo.png",
         "logo_img_alt": "Logo",
