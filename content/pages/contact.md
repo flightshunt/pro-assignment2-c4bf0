@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Get
 sections:
   - section_id: contact
     type: section_contact
