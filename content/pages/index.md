@@ -32,9 +32,7 @@ sections:
           Our team of professional tutors can help you succeed in school by
           helping you develop a comprehensive understanding of a subject. Get an
           in-depth live session to understand the topic or get a hand on help
-          with your homework problems. Our tutors have Masters and PhDs in their
-          discipline and have years of teaching experience for grades K-12 to
-          college level.
+          with your homework problems.
       - title: Essay Writing
         image: images/feature2.png
         image_alt: App users welcoming a new member
