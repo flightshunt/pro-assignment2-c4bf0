@@ -75,6 +75,7 @@ sections:
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
+        content: 'Excellent quality work, I got 100 for my book review!'
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
