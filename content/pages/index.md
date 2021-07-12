@@ -35,7 +35,7 @@ sections:
           with your homework problems. Our tutors have Masters and PhDs in their
           discipline and have years of teaching experience for grades K-12 to
           college level.
-      - title: Awesome Feature of Your Services
+      - title: Essay Writing
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
