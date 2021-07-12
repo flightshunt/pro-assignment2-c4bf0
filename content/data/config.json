@@ -5,7 +5,7 @@
     "palette": "orange",
     "header": {
         "logo_img": "/images/Pro-assignment web logo.png",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Pro-assignment logo",
         "has_nav": true,
         "nav_links": [
             {
