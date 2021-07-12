@@ -24,7 +24,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Get Started",
                 "url": "/signup",
                 "style": "primary"
             }
