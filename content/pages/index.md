@@ -35,7 +35,7 @@ sections:
           in-depth live session to understand the topic or get a hand on help
           with your homework problems.
       - title: Essay Writing
-        image: images/feature2.png
+        image: /images/AdobeStock_282687822_Preview.jpeg
         image_alt: App users welcoming a new member
         content: >
           Get professionally written essays for all academic levels. Our essay
