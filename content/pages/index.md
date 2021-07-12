@@ -51,10 +51,9 @@ sections:
       - title: Report Writing
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Get the grades you need with our report writing service. Our talented
+          writers can help you with your next academic report. 
         actions:
           - label: Learn More
             url: /features
