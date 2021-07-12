@@ -18,7 +18,7 @@ sections:
     background: gray
     title: Services
     features:
-      - title: School Homework
+      - title: Homework Help
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
