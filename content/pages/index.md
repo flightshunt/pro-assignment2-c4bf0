@@ -70,8 +70,8 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Thank you so much for your assistance, my essay was one of the best
-          in 
+          Thank you so much for your assistance, my essay was one of the best in
+          class.
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
