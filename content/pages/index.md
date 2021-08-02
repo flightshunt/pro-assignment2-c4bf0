@@ -58,7 +58,7 @@ sections:
           grades.
         actions:
           - label: Get Started
-            url: /contact
+            url: /report-writing
             style: secondary
             has_icon: true
             icon: arrow-right
