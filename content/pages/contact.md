@@ -1,5 +1,5 @@
 ---
-title: Get Started
+title: Essay Writing Help
 sections:
   - section_id: contact
     type: section_contact
