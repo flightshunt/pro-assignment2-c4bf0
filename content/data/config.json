@@ -55,8 +55,8 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "Essay Writing",
-                        "url": "essay-writing-help",
+                        "label": "Homework Help",
+                        "url": "/homework-help",
                         "style": "link",
                         "has_icon": false,
                         "icon": "arrow-left",
@@ -66,8 +66,8 @@
                         "type": "action"
                     },
                     {
-                        "label": "Homework Help",
-                        "url": "/homework-help",
+                        "label": "Essay Writing",
+                        "url": "essay-writing-help",
                         "style": "link",
                         "has_icon": false,
                         "icon": "arrow-left",
