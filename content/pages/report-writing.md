@@ -1,5 +1,5 @@
 ---
-title: Get Started
+title: Report Writing
 sections:
   - section_id: contact
     type: section_contact
