@@ -43,7 +43,7 @@ sections:
           you meet your submission deadlines while ensuring top grades.
         actions:
           - label: Get Started
-            url: /contact
+            url: /essay-writing-help
             style: secondary
             has_icon: true
             icon: arrow-right
