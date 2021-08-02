@@ -36,11 +36,6 @@
                 "type": "action"
             },
             {
-                "label": "Get Started",
-                "url": "/contact",
-                "style": "primary"
-            },
-            {
                 "label": "Report Writing",
                 "url": "report-writing",
                 "style": "link",
@@ -50,6 +45,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Get Started",
+                "url": "/contact",
+                "style": "primary"
             }
         ]
     },
