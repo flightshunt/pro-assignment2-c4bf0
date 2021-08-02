@@ -25,11 +25,6 @@
                 "type": "action"
             },
             {
-                "label": "Get Started",
-                "url": "/contact",
-                "style": "primary"
-            },
-            {
                 "label": "Homework Help",
                 "url": "/homework-help",
                 "style": "link",
@@ -39,6 +34,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Get Started",
+                "url": "/contact",
+                "style": "primary"
             }
         ]
     },
