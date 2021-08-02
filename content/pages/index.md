@@ -44,6 +44,9 @@ sections:
           Get professionally written essays for all academic levels, no matter
           the topic or complexity. Our essay writing service is designed to help
           you meet your submission deadlines while ensuring top grades.
+
+
+          ###### From $2.80 Per Word
         actions:
           - label: Get Started
             url: /essay-writing-help
