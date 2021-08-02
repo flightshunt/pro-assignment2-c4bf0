@@ -110,14 +110,6 @@
                 "title": "Community",
                 "nav_links": [
                     {
-                        "label": "Twitter",
-                        "url": "https://twitter.com/",
-                        "style": "link",
-                        "has_icon": true,
-                        "icon": "twitter",
-                        "icon_position": "left"
-                    },
-                    {
                         "label": "Facebook",
                         "url": "lorem-ipsum",
                         "style": "link",
