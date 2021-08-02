@@ -34,6 +34,9 @@ sections:
           helping you develop a comprehensive understanding of a subject. Get an
           in-depth live session to understand the topic or get a hand on help
           with your homework problems.
+
+
+          ###### Starting at $15/Hour
       - title: Essay Writing
         image: /images/AdobeStock_282687822.jpeg
         image_alt: App users welcoming a new member
