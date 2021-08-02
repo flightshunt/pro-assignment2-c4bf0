@@ -94,7 +94,7 @@
                     },
                     {
                         "label": "Report Writing",
-                        "url": "lorem-ipsum",
+                        "url": "report-writing",
                         "style": "link",
                         "has_icon": false,
                         "icon": "arrow-left",
