@@ -36,7 +36,7 @@ sections:
           with your homework problems.
 
 
-          ###### Starting at $15/Hour
+          ###### From $15/Hour
       - title: Essay Writing
         image: /images/AdobeStock_282687822.jpeg
         image_alt: App users welcoming a new member
