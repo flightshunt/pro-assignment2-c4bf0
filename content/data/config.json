@@ -44,11 +44,6 @@
                 "title": "Company",
                 "nav_links": [
                     {
-                        "label": "Get Started",
-                        "url": "/contact",
-                        "style": "link"
-                    },
-                    {
                         "label": "Essay Writing",
                         "url": "essay-writing-help",
                         "style": "link",
@@ -58,6 +53,11 @@
                         "new_window": false,
                         "no_follow": false,
                         "type": "action"
+                    },
+                    {
+                        "label": "Get Started",
+                        "url": "/contact",
+                        "style": "link"
                     }
                 ]
             },
