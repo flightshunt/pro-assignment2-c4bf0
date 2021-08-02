@@ -62,6 +62,9 @@ sections:
           are looking for a technical report, business report, or analytical
           report, our experts can help you write a report that guarantees good
           grades.
+
+
+          ###### From $2.80 Per Word
         actions:
           - label: Get Started
             url: /report-writing
