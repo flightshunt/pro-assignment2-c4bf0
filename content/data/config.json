@@ -37,7 +37,7 @@
             },
             {
                 "label": "Report Writing",
-                "url": "report-writing",
+                "url": "/report-writing",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
