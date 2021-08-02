@@ -1,5 +1,5 @@
 ---
-title: 'Homework '
+title: Homework Help
 sections:
   - section_id: contact
     type: section_contact
