@@ -164,7 +164,7 @@
             },
             {
                 "label": "Refund Policy",
-                "url": "lorem-ipsum",
+                "url": "/refund-policy",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
