@@ -5,7 +5,26 @@ sections:
     type: section_contact
     background: gray
     title: Contact Us
-    content: "For any questions or concerns please feel free to reach out to us.\n\n\n\n**Registered Office Address - **H-201 Stellar Park Apartments, C-58/24 Gautam Buddh nagar, Noida sec - 62 UP - 201309\n\n**Phone -  **\_9821628826\n\n**Customer Support  - **<care@pro-assignment.com>\n\n"
+    content: >
+      For any questions or concerns please feel free to reach out to us.
+
+
+      ##
+
+
+      ## Registered Office Address - H-201 Stellar Park Apartments, C-58/24
+      Gautam Buddh nagar, Noida sec - 62 UP - 201309
+
+
+      ##
+
+
+      ## Phone -  +91-9821628826, +91-9953641000
+
+
+
+
+      ## Customer Support  - <care@pro-assignment.com>
     form_id: contactForm
     form_fields:
       - input_type: text
