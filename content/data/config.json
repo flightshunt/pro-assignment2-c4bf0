@@ -152,7 +152,8 @@
                 "url": "/privacy-policy",
                 "style": "link"
             }
-        ]
+        ],
+        "content": "Registered office address - "
     },
     "domain": "https://pro-assignment2-c4bf0.netlify.app",
     "favicon": "/images/pro-assignment icon.png"
