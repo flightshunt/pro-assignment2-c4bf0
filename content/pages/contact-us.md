@@ -12,26 +12,31 @@ sections:
       ##
 
 
-      ## Registered Office Address
 
 
-      ### H-201 Stellar Park Apartments, C-58/24 Gautam Buddh nagar, Noida sec -
-      62 UP - 201309
+      **Registered Office Address**
 
 
-      ##
-
-
-      ## Phone
-
-
-      ### +91-9821628826, +91-9953641000
+      H-201 Stellar Park Apartments, C-58/24 Gautam Buddh nagar, Noida sec - 62
+      UP - 201309
 
 
       ##
 
 
-      Customer Support  
+      **Phone**
+
+
+      \+91-9821628826
+
+
+      \+91-9953641000
+
+
+      ##
+
+
+      **Customer Support**
 
 
       <care@pro-assignment.com>
