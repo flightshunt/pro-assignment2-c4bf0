@@ -4,7 +4,7 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Get Started
+    title: Contact Us
     content: |
       Tell us your requirement and we will reach out to you shortly.
     form_id: contactForm
