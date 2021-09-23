@@ -1,5 +1,5 @@
 ---
-title: Essay Writing Help
+title: Contact Us
 sections:
   - section_id: contact
     type: section_contact
