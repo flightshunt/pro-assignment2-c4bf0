@@ -6,12 +6,12 @@ sections:
     background: gray
     title: Contact Us
     content: >
-      For any questions or concerns please feel free to reach out to us.
+      For any questions or concerns please feel free to reach out to us via
+      phone or email or fill up the form below and we will reach out to you in
+      24 hours.
 
 
       ##
-
-
 
 
       **Registered Office Address**
