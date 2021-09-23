@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Refund Policy
 image_alt: lorem-ipsum
 seo:
   title: Privacy Policy
